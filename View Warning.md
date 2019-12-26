@@ -1,5 +1,5 @@
 `recyclerview  has setontouchlistener called on it but does not override performclick`警告解解方案
-### [参考stackoverflow](https://stackoverflow.com/questions/47107105/android-button-has-setontouchlistener-called-on-it-but-does-not-override-perform)
+参考：[stackoverflow](https://stackoverflow.com/questions/47107105/android-button-has-setontouchlistener-called-on-it-but-does-not-override-perform)
 
 ```Java
 import android.content.Context;
